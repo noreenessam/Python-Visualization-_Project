@@ -34,4 +34,5 @@ Active COVID-19 cases initially increased sharply, reaching clear peaks during o
 "Our Python-based analysis has effectively uncovered critical patterns in the COVID-19 data, demonstrating the power of data science in understanding complex global health crises.
 
 ## 📎 Files
-- https://drive.google.com/file/d/1oTxMoH5lx1nqkqD-G7iC1SkymHyaHB8v/view?usp=drive_link`  
+- https://drive.google.com/file/d/1oTxMoH5lx1nqkqD-G7iC1SkymHyaHB8v/view?usp=drive_link` (notebook)
+https://docs.google.com/presentation/d/1qocw8if80XJUC1lxU-A54BGvOzUtFzd3/edit?slide=id.p1#slide=id.p1(persentation)
