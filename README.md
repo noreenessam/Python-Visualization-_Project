@@ -34,10 +34,4 @@ Active COVID-19 cases initially increased sharply, reaching clear peaks during o
 "Our Python-based analysis has effectively uncovered critical patterns in the COVID-19 data, demonstrating the power of data science in understanding complex global health crises.
 
 ## 📎 Files
-- `python project(1).ipynb` → Main analysis notebook  
-- `COVID-19-Data-Analytics-with-Python (2).pptx` →  presentation  
-
-## 👩‍💻 Author
-Noreen Essam
-ىخقثث  
-Data Analyst | Python & Power BI Developer
+- https://drive.google.com/file/d/1oTxMoH5lx1nqkqD-G7iC1SkymHyaHB8v/view?usp=drive_link`  
