@@ -19,9 +19,6 @@ The dataset contains COVID-19 data, including:
 - Confirmed Cases
 - Deaths
 - Recoveries
-- Vaccinations (if available)
-
-*(You can replace this section with a link to your dataset or describe it briefly if it’s local.)*
 
 ## 📈 Key Visualizations
 - Trend of confirmed cases over time  
@@ -43,5 +40,4 @@ Active COVID-19 cases initially increased sharply, reaching clear peaks during o
 ## 👩‍💻 Author
 Noreen Essam
 ىخقثث  
-Data Analyst | Python & Power BI Enthusiast  
-[Optional: add your LinkedIn or email]
+Data Analyst | Python & Power BI Developer
